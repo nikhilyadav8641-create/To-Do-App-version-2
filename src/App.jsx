@@ -9,6 +9,8 @@ function App() {
     { name: "Buy Milk", dueDate: "4/10/2026" },
     { name: "Go to college", dueDate: "4/10/2026" },
     { name: "Go to mall", dueDate: "4/10/2026" },
+    { name: "Go to Gym", dueDate: "5/10/2026" },
+    { name: "Happy Birthday", dueDate: "6/10/2026" },
   ];
   return (
     <>
