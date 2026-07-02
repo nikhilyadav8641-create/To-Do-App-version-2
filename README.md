@@ -1,5 +1,7 @@
 # React + Vite
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/kd/j_hwmr7s4vg06sq7d5yf643h0000gn/T/TemporaryItems/NSIRD_screencaptureui_JZS3cR/Screenshot%202026-07-02%20at%208.45.21%E2%80%AFPM.png?version%3D1783005330546)
+To do App version 2 via concept of passing data with props and css modules
+<img width="921" height="545" alt="Screenshot 2026-07-02 at 8 51 32 PM" src="https://github.com/user-attachments/assets/2c5e0ae2-0991-4fdf-a4c6-19035da812a6" />
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
